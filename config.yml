@@ -1,0 +1,13 @@
+---
+donate-list: "All registered donates: Vip - 10$, and more"
+donate-not-found: "Donate not found!"
+
+#! You can write any privileges
+
+Vip:
+  - "The possibilities of the VIP privilege should be described here"
+
+Mvp:
+  - "The possibilities of the MVP privilege should be described here"
+
+...
